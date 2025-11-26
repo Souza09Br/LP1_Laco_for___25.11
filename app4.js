@@ -7,3 +7,5 @@ for(let i = 2; i <= numero; i++){
     }
 }
 console.log(`A soma dos números pares de  até ${numero} é: ${soma}`);
+
+
