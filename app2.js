@@ -5,9 +5,9 @@ for(i=1; i<=7; i++){
 if(num === NumberMaquina){
     console.log("Você acertou o número.");
     break;
-}else if(num > 5 ){
+}else if(num > NumberMaquina ){
     console.log("É um número menor do que o escolhido.");
 }else{
     console.log("O número é maior.")
-}
+    }
 }
